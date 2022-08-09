@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/r21a6Jr.png" group-title="FM RADIO",77.5 LOL! FM
 https://bit.ly/3ONZmCl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g7Z3WXU.png" group-title="FM RADIO",91.5 Win Radio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TByuVNW.png" group-title="FM RADIO",91.5 Win Radio
 https://bit.ly/3Bim0zi
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GTXUqPN.png" group-title="FM RADIO",89.9 Magic FM
 https://bit.ly/3otNR8l
@@ -17,7 +17,7 @@ https://bit.ly/3vhNDVC
 https://bit.ly/3PDzhHc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X59O1VZ.png" group-title="FM RADIO",97.9 Home Radio Manila
 https://bit.ly/3cL6YIj
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Dx8rwA9.png" group-title="FM RADIO",102.9 BEAT FM
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dx8rwA9.png" group-title="FM RADIO",102.9 Beat FM
 https://bit.ly/3zwsvgJ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2si9iZ.jpg" group-title="FM RADIO",99.5 BARANGAY RT CEBU
 https://bit.ly/3PDYam9
@@ -43,9 +43,9 @@ https://bit.ly/3JklC5H
 https://bit.ly/3zy9o66
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dX3nyuQ.png" group-title="AM RADIO",DWIZ
 https://bit.ly/3bbQoRt
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="AM RADIO",DZRH NEWS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="AM RADIO",DZRH News TV
 https://tiny.one/dzrh-news
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SqOdnx2.png" group-title="AM RADIO",DZBB SUPER RADYO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SqOdnx2.png" group-title="AM RADIO",DZBB Super Radyo
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pwHUrVL.png" group-title="AM RADIO",DZMM TELERADYO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwHUrVL.png" group-title="AM RADIO",DZMM Teleradyo
 https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
