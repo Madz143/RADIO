@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1qTomUg.jpg" group-title="Local Radio",LOL FM
+https://bit.ly/3ONZmCl
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1qYO9y.png" group-title="Local Radio",RADYO NATIN
+https://bit.ly/3JklC5H
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HMtzWTo.png" group-title="Local Radio",91.5 WIN RADIO
+https://bit.ly/3Bim0zi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p7XNnBM.png" group-title="Local Radio",89.9 MAGIC FM
+https://bit.ly/3otNR8l
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZnnpQZY.png" group-title="Local Radio",RADYO PILIPINAS
+https://bit.ly/3zy9o66
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dcsg09e.jpg" group-title="Local Radio",STATION 1 RADIO
+https://bit.ly/3PBIP5F
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4lpjfDS.png" group-title="Local Radio",ENERGYFM MANILA
+https://bit.ly/3zykVCe
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GWwarP6.png" group-title="Local Radio",YES FM MANILA
+https://bit.ly/3z5p5QG
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gUHkfcz.png" group-title="Local Radio",MOR CEBU
+https://bit.ly/3PRxk9C
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X5lGMLQ.png" group-title="Local Radio",WROCK
+https://bit.ly/3vhNDVC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T0beHR9.png" group-title="Local Radio",DWIZ
+https://bit.ly/3bbQoRt
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sihcbpE.png" group-title="Local Radio",MONSTER RADIO
+https://bit.ly/3PDzhHc
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NF5kEfB.png" group-title="Local Radio",HOME RADIO MANILA
+https://bit.ly/3cL6YIj
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGMK0fd.png" group-title="Local Radio",MANILA FINEST
+https://bit.ly/3z2JlT2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P2UIQwQ.png" group-title="Local Radio",PINOY RAP
+https://bit.ly/3ovrNtS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dx8rwA9.png" group-title="Local Radio",BEAT FM
+https://bit.ly/3zwsvgJ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2si9iZ.jpg" group-title="Local Radio",BARANGAY LS CEBU
+https://bit.ly/3PDYam9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSnLRBn.png" group-title="Local Radio",RADYO NATIN
+https://bit.ly/3JklC5H
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xBRNiHd.png" group-title="Local Radio",EASY ROCK MANILA
+https://bit.ly/3PT8INR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G8tPHK8.png" group-title="Local Radio",AXR MANILA LIVE
+https://bit.ly/3oskIdx
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P1mCl2k.png" group-title="Local Radio",DZRH NEWS TV
+https://tiny.one/dzrh-news
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CEXYuMj.jpg" group-title="Local Radio",LOVE RADIO MANILA 90.7
+https://s3.radio.co/sd43d6cc6d/listen
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SqOdnx2.png" group-title="Local Radio",DZBB SUPER RADYO
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8?wowzasessionid=693701106
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pwHUrVL.png" group-title="Local Radio",DZMM TELERADYO
+https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-teleradyo-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s8kYBvU.png" group-title="Local Radio",88.3 JAM
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/jam883ph
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BebW7r0.png" group-title="Local Radio",WISH 107.5
+https://play.wishfm.com/radio/chunklist_b64000.m3u8
