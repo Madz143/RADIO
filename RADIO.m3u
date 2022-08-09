@@ -28,8 +28,8 @@ https://s3.radio.co/sd43d6cc6d/listen
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s8kYBvU.png" group-title="FM RADIO",88.3 JAM
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/jam883ph
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BebW7r0.png" group-title="FM RADIO",107.5 WISH
-https://play.wishfm.com/radio/wish.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5bcSMc.png" group-title="FM RADIO",AXR Manila Live
+https://play.wishfm.com/radio/chunklist_b64000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UzjMFJu.png" group-title="FM RADIO",AXR Manila Live
 https://bit.ly/3oskIdx
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZGMK0fd.png" group-title="FM RADIO",Manila Finest
 https://bit.ly/3z2JlT2
