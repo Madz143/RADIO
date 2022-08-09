@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1qTomUg.jpg" group-title="Local Radio",LOL FM
 https://bit.ly/3ONZmCl
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u1qYO9y.png" group-title="Local Radio",RADYO NATIN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oSnLRBn.png" group-title="Local Radio",RADYO NATIN
 https://bit.ly/3JklC5H
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HMtzWTo.png" group-title="Local Radio",91.5 WIN RADIO
 https://bit.ly/3Bim0zi
@@ -33,8 +33,6 @@ https://bit.ly/3ovrNtS
 https://bit.ly/3zwsvgJ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2si9iZ.jpg" group-title="Local Radio",BARANGAY LS CEBU
 https://bit.ly/3PDYam9
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oSnLRBn.png" group-title="Local Radio",RADYO NATIN
-https://bit.ly/3JklC5H
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xBRNiHd.png" group-title="Local Radio",EASY ROCK MANILA
 https://bit.ly/3PT8INR
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G8tPHK8.png" group-title="Local Radio",AXR MANILA LIVE
